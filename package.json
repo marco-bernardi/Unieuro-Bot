@@ -1,12 +1,13 @@
 {
     "dependencies": {
-      "https": "^1.0.0",
-      "puppeteer": "^7.1.0",
-      "request": "^2.88.2"
+        "https": "^1.0.0",
+        "puppeteer": "^7.1.0",
+        "request": "^2.88.2",
+        "telegraf": "^3.38.0"
     },
     "name": "unieuro-bot",
     "version": "1.0.0",
     "scripts": {
-      "start": "node bot.js"
+        "start": "node bot.js"
     }
 }
